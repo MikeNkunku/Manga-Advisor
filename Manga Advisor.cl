@@ -368,6 +368,14 @@
             (popularite . haute)
             (anime . oui)
             )
+           (
+            (nom . World_Trigger)
+            (genre . shonen)
+            (tomes . 11)
+            (theme . fantasy)
+            (popularite . haute)
+            (anime . oui)
+            )
            )
       )
 
