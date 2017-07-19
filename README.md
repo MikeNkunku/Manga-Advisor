@@ -1,7 +1,7 @@
-#Manga Advisor 
+# Manga Advisor 
 
 ## Requirements
-In order to make it work, if not installed, you must download a program which enables to launch this program.
+In order to make it work, if not installed, you must download a program which enables to launch this program.<br/>
 Download links are available [here](http://franz.com/downloads/clp/download).
 
 ## Brief description
